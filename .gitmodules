@@ -1,0 +1,6 @@
+[submodule "typescript-prereq"]
+	path = typescript-prereq
+	url = https://github.com/ChiefWoods/typescript-prereq
+[submodule "rust-prereq"]
+	path = rust-prereq
+	url = https://github.com/ChiefWoods/rust-prereq
