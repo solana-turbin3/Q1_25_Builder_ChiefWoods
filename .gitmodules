@@ -10,3 +10,6 @@
 [submodule "escrow"]
 	path = escrow
 	url = https://github.com/ChiefWoods/escrow.git
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/ChiefWoods/marketplace.git
