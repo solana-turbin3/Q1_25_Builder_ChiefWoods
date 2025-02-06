@@ -13,3 +13,6 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/ChiefWoods/marketplace.git
+[submodule "staking"]
+	path = staking
+	url = https://github.com/ChiefWoods/staking.git
