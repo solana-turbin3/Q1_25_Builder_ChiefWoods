@@ -16,3 +16,6 @@
 [submodule "staking"]
 	path = staking
 	url = https://github.com/ChiefWoods/staking.git
+[submodule "dice"]
+	path = dice
+	url = https://github.com/ChiefWoods/dice.git
