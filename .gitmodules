@@ -22,3 +22,6 @@
 [submodule "automated-market-maker"]
 	path = automated-market-maker
 	url = https://github.com/ChiefWoods/automated-market-maker.git
+[submodule "vesting"]
+	path = vesting
+	url = https://github.com/ChiefWoods/vesting.git
