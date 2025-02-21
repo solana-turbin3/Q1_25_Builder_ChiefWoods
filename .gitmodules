@@ -28,3 +28,6 @@
 [submodule "lottery"]
 	path = lottery
 	url = https://github.com/ChiefWoods/lottery.git
+[submodule "lending"]
+	path = lending
+	url = https://github.com/ChiefWoods/lending.git
