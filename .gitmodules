@@ -31,3 +31,6 @@
 [submodule "lending"]
 	path = lending
 	url = https://github.com/ChiefWoods/lending.git
+[submodule "stablecoin"]
+	path = stablecoin
+	url = https://github.com/ChiefWoods/stablecoin.git
