@@ -34,3 +34,6 @@
 [submodule "stablecoin"]
 	path = stablecoin
 	url = https://github.com/ChiefWoods/stablecoin.git
+[submodule "splurge"]
+	path = splurge
+	url = https://github.com/ChiefWoods/splurge.git
