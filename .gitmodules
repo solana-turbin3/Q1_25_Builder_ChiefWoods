@@ -1,12 +1,12 @@
 [submodule "typescript-prereq"]
 	path = typescript-prereq
-	url = https://github.com/ChiefWoods/typescript-prereq
+	url = https://github.com/ChiefWoods/typescript-prereq.git
 [submodule "rust-prereq"]
 	path = rust-prereq
-	url = https://github.com/ChiefWoods/rust-prereq
+	url = https://github.com/ChiefWoods/rust-prereq.git
 [submodule "solana-starter"]
 	path = solana-starter
-	url = https://github.com/ChiefWoods/solana-starter
+	url = https://github.com/ChiefWoods/solana-starter.git
 [submodule "escrow"]
 	path = escrow
 	url = https://github.com/ChiefWoods/escrow.git
