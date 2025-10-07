@@ -25,3 +25,6 @@
 [submodule "splurge"]
 	path = splurge
 	url = https://github.com/ChiefWoods/splurge.git
+[submodule "launchpad"]
+	path = launchpad
+	url = https://github.com/ChiefWoods/launchpad.git
