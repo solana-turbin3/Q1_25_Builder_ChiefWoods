@@ -19,9 +19,9 @@
 [submodule "dice"]
 	path = dice
 	url = https://github.com/ChiefWoods/dice.git
-[submodule "automated-market-maker"]
-	path = automated-market-maker
-	url = https://github.com/ChiefWoods/automated-market-maker.git
+[submodule "cpamm"]
+	path = cpamm
+	url = https://github.com/ChiefWoods/cpamm.git
 [submodule "splurge"]
 	path = splurge
 	url = https://github.com/ChiefWoods/splurge.git
